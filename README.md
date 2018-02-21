@@ -1,2 +1,2 @@
 # fcc-quotes
-quotes for fcc take 2
+A simple JSON file to be pulled for Free Code Camp's quote machine challenge
